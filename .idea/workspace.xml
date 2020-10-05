@@ -1,7 +1,673 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f32cd173-9468-4734-a10e-568a8b088a7a" name="Default Changelist" comment="" />
+    <list default="true" id="f32cd173-9468-4734-a10e-568a8b088a7a" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.bin/tslint" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@babel/code-frame/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@babel/code-frame/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@babel/highlight/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@babel/highlight/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/ansi-styles/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/ansi-styles/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/builtin-modules/builtin-modules.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/builtin-modules/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/builtin-modules/license" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/builtin-modules/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/builtin-modules/readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/builtin-modules/static.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/chalk/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/chalk/index.js.flow" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/chalk/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/chalk/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/chalk/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/chalk/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/chalk/templates.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/chalk/types/index.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/commander/CHANGELOG.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/commander/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/commander/Readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/commander/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/commander/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/commander/typings/index.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/escape-string-regexp/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/escape-string-regexp/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/glob/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/glob/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/js-yaml/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/js-yaml/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/mkdirp/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/mkdirp/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/path-parse/.travis.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/path-parse/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/path-parse/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/path-parse/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/path-parse/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/path-parse/test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/resolve/.editorconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/resolve/.eslintignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/resolve/.eslintrc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/resolve/.travis.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/resolve/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/resolve/appveyor.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/resolve/example/async.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/resolve/example/sync.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/resolve/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/resolve/lib/async.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/resolve/lib/caller.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/resolve/lib/core.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/resolve/lib/core.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/resolve/lib/is-core.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/resolve/lib/node-modules-paths.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/resolve/lib/normalize-options.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/resolve/lib/sync.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/resolve/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/resolve/readme.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/resolve/test/.eslintrc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/resolve/test/core.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/resolve/test/dotdot.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/resolve/test/dotdot/abc/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/resolve/test/dotdot/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/resolve/test/faulty_basedir.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/resolve/test/filter.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/resolve/test/filter_sync.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/resolve/test/mock.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/resolve/test/mock_sync.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/resolve/test/module_dir.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/resolve/test/module_dir/xmodules/aaa/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/resolve/test/module_dir/ymodules/aaa/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/resolve/test/module_dir/zmodules/bbb/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/resolve/test/module_dir/zmodules/bbb/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/resolve/test/node-modules-paths.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/resolve/test/node_path.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/resolve/test/node_path/x/aaa/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/resolve/test/node_path/x/ccc/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/resolve/test/node_path/y/bbb/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/resolve/test/node_path/y/ccc/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/resolve/test/nonstring.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/resolve/test/pathfilter.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/resolve/test/pathfilter/deep_ref/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/resolve/test/precedence.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/resolve/test/precedence/aaa.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/resolve/test/precedence/aaa/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/resolve/test/precedence/aaa/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/resolve/test/precedence/bbb.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/resolve/test/precedence/bbb/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/resolve/test/resolver.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/resolve/test/resolver/baz/doom.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/resolve/test/resolver/baz/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/resolve/test/resolver/baz/quux.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/resolve/test/resolver/browser_field/a.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/resolve/test/resolver/browser_field/b.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/resolve/test/resolver/browser_field/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/resolve/test/resolver/cup.coffee" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/resolve/test/resolver/dot_main/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/resolve/test/resolver/dot_main/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/resolve/test/resolver/dot_slash_main/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/resolve/test/resolver/dot_slash_main/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/resolve/test/resolver/foo.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/resolve/test/resolver/incorrect_main/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/resolve/test/resolver/incorrect_main/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/resolve/test/resolver/invalid_main/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/resolve/test/resolver/mug.coffee" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/resolve/test/resolver/mug.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/resolve/test/resolver/multirepo/lerna.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/resolve/test/resolver/multirepo/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/resolve/test/resolver/multirepo/packages/package-a/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/resolve/test/resolver/multirepo/packages/package-a/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/resolve/test/resolver/multirepo/packages/package-b/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/resolve/test/resolver/multirepo/packages/package-b/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/resolve/test/resolver/nested_symlinks/mylib/async.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/resolve/test/resolver/nested_symlinks/mylib/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/resolve/test/resolver/nested_symlinks/mylib/sync.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/resolve/test/resolver/other_path/lib/other-lib.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/resolve/test/resolver/other_path/root.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/resolve/test/resolver/quux/foo/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/resolve/test/resolver/same_names/foo.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/resolve/test/resolver/same_names/foo/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/resolve/test/resolver/symlinked/_/node_modules/foo.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/resolve/test/resolver/symlinked/_/symlink_target/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/resolve/test/resolver/symlinked/package/bar.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/resolve/test/resolver/symlinked/package/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/resolve/test/resolver/without_basedir/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/resolve/test/resolver_sync.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/resolve/test/shadowed_core.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/resolve/test/shadowed_core/node_modules/util/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/resolve/test/subdirs.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/resolve/test/symlinks.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslib/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/tslib/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/.prettierrc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/CHANGELOG.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/bin/tslint" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/configs/all.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/configs/all.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/configs/latest.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/configs/latest.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/configs/recommended.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/configs/recommended.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/configuration.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/configuration.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/enableDisableRules.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/enableDisableRules.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/error.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/error.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/files/reading.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/files/reading.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/files/resolution.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/files/resolution.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/formatterLoader.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/formatterLoader.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/formatters.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/formatters.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/formatters/checkstyleFormatter.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/formatters/checkstyleFormatter.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/formatters/codeFrameFormatter.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/formatters/codeFrameFormatter.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/formatters/fileslistFormatter.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/formatters/fileslistFormatter.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/formatters/index.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/formatters/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/formatters/jsonFormatter.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/formatters/jsonFormatter.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/formatters/junitFormatter.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/formatters/junitFormatter.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/formatters/msbuildFormatter.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/formatters/msbuildFormatter.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/formatters/pmdFormatter.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/formatters/pmdFormatter.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/formatters/proseFormatter.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/formatters/proseFormatter.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/formatters/stylishFormatter.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/formatters/stylishFormatter.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/formatters/tapFormatter.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/formatters/tapFormatter.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/formatters/verboseFormatter.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/formatters/verboseFormatter.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/formatters/vsoFormatter.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/formatters/vsoFormatter.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/index.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/language/formatter/abstractFormatter.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/language/formatter/abstractFormatter.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/language/formatter/formatter.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/language/formatter/formatter.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/language/rule/abstractRule.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/language/rule/abstractRule.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/language/rule/optionallyTypedRule.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/language/rule/optionallyTypedRule.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/language/rule/rule.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/language/rule/rule.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/language/rule/typedRule.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/language/rule/typedRule.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/language/typeUtils.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/language/typeUtils.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/language/utils.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/language/utils.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/language/walker/blockScopeAwareRuleWalker.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/language/walker/blockScopeAwareRuleWalker.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/language/walker/index.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/language/walker/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/language/walker/programAwareRuleWalker.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/language/walker/programAwareRuleWalker.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/language/walker/ruleWalker.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/language/walker/ruleWalker.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/language/walker/scopeAwareRuleWalker.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/language/walker/scopeAwareRuleWalker.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/language/walker/syntaxWalker.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/language/walker/syntaxWalker.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/language/walker/walkContext.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/language/walker/walkContext.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/language/walker/walker.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/language/walker/walker.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/linter.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/linter.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/ruleLoader.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/ruleLoader.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/rules.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/rules.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/rules/adjacentOverloadSignaturesRule.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/rules/adjacentOverloadSignaturesRule.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/rules/alignRule.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/rules/alignRule.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/rules/arrayTypeRule.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/rules/arrayTypeRule.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/rules/arrowParensRule.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/rules/arrowParensRule.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/rules/arrowReturnShorthandRule.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/rules/arrowReturnShorthandRule.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/rules/awaitPromiseRule.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/rules/awaitPromiseRule.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/rules/banCommaOperatorRule.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/rules/banCommaOperatorRule.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/rules/banRule.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/rules/banRule.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/rules/banTsIgnoreRule.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/rules/banTsIgnoreRule.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/rules/banTypesRule.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/rules/banTypesRule.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/rules/binaryExpressionOperandOrderRule.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/rules/binaryExpressionOperandOrderRule.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/rules/callableTypesRule.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/rules/callableTypesRule.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/rules/classNameRule.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/rules/classNameRule.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/rules/code-examples/arrowReturnShorthand.examples.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/rules/code-examples/arrowReturnShorthand.examples.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/rules/code-examples/banTsIgnore.examples.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/rules/code-examples/banTsIgnore.examples.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/rules/code-examples/className.examples.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/rules/code-examples/className.examples.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/rules/code-examples/curly.examples.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/rules/code-examples/curly.examples.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/rules/code-examples/functionConstructor.examples.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/rules/code-examples/functionConstructor.examples.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/rules/code-examples/noAny.examples.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/rules/code-examples/noAny.examples.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/rules/code-examples/noAsyncWithoutAwait.examples.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/rules/code-examples/noAsyncWithoutAwait.examples.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/rules/code-examples/noEmptyInterface.examples.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/rules/code-examples/noEmptyInterface.examples.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/rules/code-examples/noObjectLiteralTypeAssertion.examples.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/rules/code-examples/noObjectLiteralTypeAssertion.examples.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/rules/code-examples/noPromiseAsBoolean.examples.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/rules/code-examples/noPromiseAsBoolean.examples.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/rules/code-examples/noSparseArrays.examples.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/rules/code-examples/noSparseArrays.examples.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/rules/code-examples/noStringThrowRule.examples.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/rules/code-examples/noStringThrowRule.examples.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/rules/code-examples/noUnnecessaryCallbackWrapper.examples.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/rules/code-examples/noUnnecessaryCallbackWrapper.examples.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/rules/code-examples/noUseBeforeDeclare.examples.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/rules/code-examples/noUseBeforeDeclare.examples.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/rules/code-examples/objectLiteralSortKeys.examples.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/rules/code-examples/objectLiteralSortKeys.examples.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/rules/code-examples/oneVariablePerDeclaration.examples.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/rules/code-examples/oneVariablePerDeclaration.examples.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/rules/code-examples/onlyArrowFunctions.examples.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/rules/code-examples/onlyArrowFunctions.examples.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/rules/code-examples/preferTemplate.examples.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/rules/code-examples/preferTemplate.examples.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/rules/code-examples/preferWhile.examples.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/rules/code-examples/preferWhile.examples.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/rules/code-examples/radix.examples.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/rules/code-examples/radix.examples.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/rules/code-examples/staticThis.examples.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/rules/code-examples/staticThis.examples.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/rules/code-examples/strictComparisons.examples.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/rules/code-examples/strictComparisons.examples.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/rules/code-examples/switchDefault.examples.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/rules/code-examples/switchDefault.examples.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/rules/code-examples/typedef.examples.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/rules/code-examples/typedef.examples.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/rules/code-examples/unnecessaryElse.examples.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/rules/code-examples/unnecessaryElse.examples.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/rules/code-examples/useIsnan.examples.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/rules/code-examples/useIsnan.examples.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/rules/commentFormatRule.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/rules/commentFormatRule.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/rules/commentTypeRule.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/rules/commentTypeRule.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/rules/completed-docs/blockExclusion.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/rules/completed-docs/blockExclusion.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/rules/completed-docs/classExclusion.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/rules/completed-docs/classExclusion.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/rules/completed-docs/constructorExclusion.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/rules/completed-docs/constructorExclusion.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/rules/completed-docs/exclusion.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/rules/completed-docs/exclusion.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/rules/completed-docs/exclusionDescriptors.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/rules/completed-docs/exclusionDescriptors.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/rules/completed-docs/exclusions.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/rules/completed-docs/exclusions.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/rules/completed-docs/tagExclusion.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/rules/completed-docs/tagExclusion.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/rules/completedDocsRule.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/rules/completedDocsRule.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/rules/curlyRule.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/rules/curlyRule.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/rules/cyclomaticComplexityRule.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/rules/cyclomaticComplexityRule.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/rules/deprecationRule.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/rules/deprecationRule.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/rules/encodingRule.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/rules/encodingRule.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/rules/eoflineRule.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/rules/eoflineRule.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/rules/fileHeaderRule.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/rules/fileHeaderRule.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/rules/fileNameCasingRule.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/rules/fileNameCasingRule.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/rules/forinRule.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/rules/forinRule.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/rules/functionConstructorRule.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/rules/functionConstructorRule.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/rules/importBlacklistRule.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/rules/importBlacklistRule.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/rules/importSpacingRule.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/rules/importSpacingRule.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/rules/incrementDecrementRule.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/rules/incrementDecrementRule.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/rules/indentRule.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/rules/indentRule.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/rules/interfaceNameRule.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/rules/interfaceNameRule.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/rules/interfaceOverTypeLiteralRule.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/rules/interfaceOverTypeLiteralRule.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/rules/invalidVoidRule.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/rules/invalidVoidRule.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/rules/jsdocFormatRule.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/rules/jsdocFormatRule.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/rules/labelPositionRule.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/rules/labelPositionRule.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/rules/linebreakStyleRule.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/rules/linebreakStyleRule.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/rules/matchDefaultExportNameRule.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/rules/matchDefaultExportNameRule.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/rules/maxClassesPerFileRule.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/rules/maxClassesPerFileRule.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/rules/maxFileLineCountRule.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/rules/maxFileLineCountRule.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/rules/maxLineLengthRule.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/rules/maxLineLengthRule.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/rules/memberAccessRule.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/rules/memberAccessRule.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/rules/memberOrderingRule.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/rules/memberOrderingRule.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/rules/newParensRule.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/rules/newParensRule.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/rules/newlineBeforeReturnRule.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/rules/newlineBeforeReturnRule.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/rules/newlinePerChainedCallRule.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/rules/newlinePerChainedCallRule.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/rules/noAngleBracketTypeAssertionRule.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/rules/noAngleBracketTypeAssertionRule.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/rules/noAnyRule.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/rules/noAnyRule.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/rules/noArgRule.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/rules/noArgRule.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/rules/noAsyncWithoutAwaitRule.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/rules/noAsyncWithoutAwaitRule.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/rules/noBitwiseRule.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/rules/noBitwiseRule.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/rules/noBooleanLiteralCompareRule.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/rules/noBooleanLiteralCompareRule.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/rules/noConditionalAssignmentRule.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/rules/noConditionalAssignmentRule.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/rules/noConsecutiveBlankLinesRule.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/rules/noConsecutiveBlankLinesRule.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/rules/noConsoleRule.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/rules/noConsoleRule.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/rules/noConstructRule.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/rules/noConstructRule.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/rules/noDebuggerRule.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/rules/noDebuggerRule.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/rules/noDefaultExportRule.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/rules/noDefaultExportRule.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/rules/noDefaultImportRule.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/rules/noDefaultImportRule.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/rules/noDuplicateImportsRule.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/rules/noDuplicateImportsRule.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/rules/noDuplicateSuperRule.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/rules/noDuplicateSuperRule.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/rules/noDuplicateSwitchCaseRule.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/rules/noDuplicateSwitchCaseRule.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/rules/noDuplicateVariableRule.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/rules/noDuplicateVariableRule.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/rules/noDynamicDeleteRule.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/rules/noDynamicDeleteRule.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/rules/noEmptyInterfaceRule.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/rules/noEmptyInterfaceRule.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/rules/noEmptyRule.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/rules/noEmptyRule.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/rules/noEvalRule.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/rules/noEvalRule.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/rules/noFloatingPromisesRule.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/rules/noFloatingPromisesRule.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/rules/noForInArrayRule.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/rules/noForInArrayRule.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/rules/noForInRule.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/rules/noForInRule.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/rules/noImplicitDependenciesRule.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/rules/noImplicitDependenciesRule.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/rules/noImportSideEffectRule.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/rules/noImportSideEffectRule.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/rules/noInferrableTypesRule.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/rules/noInferrableTypesRule.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/rules/noInferredEmptyObjectTypeRule.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/rules/noInferredEmptyObjectTypeRule.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/rules/noInternalModuleRule.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/rules/noInternalModuleRule.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/rules/noInvalidTemplateStringsRule.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/rules/noInvalidTemplateStringsRule.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/rules/noInvalidThisRule.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/rules/noInvalidThisRule.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/rules/noIrregularWhitespaceRule.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/rules/noIrregularWhitespaceRule.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/rules/noMagicNumbersRule.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/rules/noMagicNumbersRule.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/rules/noMergeableNamespaceRule.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/rules/noMergeableNamespaceRule.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/rules/noMisusedNewRule.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/rules/noMisusedNewRule.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/rules/noNamespaceRule.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/rules/noNamespaceRule.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/rules/noNonNullAssertionRule.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/rules/noNonNullAssertionRule.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/rules/noNullKeywordRule.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/rules/noNullKeywordRule.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/rules/noNullUndefinedUnionRule.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/rules/noNullUndefinedUnionRule.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/rules/noObjectLiteralTypeAssertionRule.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/rules/noObjectLiteralTypeAssertionRule.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/rules/noParameterPropertiesRule.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/rules/noParameterPropertiesRule.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/rules/noParameterReassignmentRule.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/rules/noParameterReassignmentRule.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/rules/noPromiseAsBooleanRule.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/rules/noPromiseAsBooleanRule.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/rules/noRedundantJsdocRule.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/rules/noRedundantJsdocRule.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/rules/noReferenceImportRule.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/rules/noReferenceImportRule.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/rules/noReferenceRule.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/rules/noReferenceRule.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/rules/noRequireImportsRule.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/rules/noRequireImportsRule.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/rules/noRestrictedGlobalsRule.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/rules/noRestrictedGlobalsRule.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/rules/noReturnAwaitRule.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/rules/noReturnAwaitRule.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/rules/noShadowedVariableRule.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/rules/noShadowedVariableRule.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/rules/noSparseArraysRule.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/rules/noSparseArraysRule.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/rules/noStringLiteralRule.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/rules/noStringLiteralRule.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/rules/noStringThrowRule.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/rules/noStringThrowRule.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/rules/noSubmoduleImportsRule.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/rules/noSubmoduleImportsRule.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/rules/noSwitchCaseFallThroughRule.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/rules/noSwitchCaseFallThroughRule.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/rules/noTautologyExpressionRule.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/rules/noTautologyExpressionRule.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/rules/noThisAssignmentRule.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/rules/noThisAssignmentRule.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/rules/noTrailingWhitespaceRule.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/rules/noTrailingWhitespaceRule.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/rules/noUnboundMethodRule.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/rules/noUnboundMethodRule.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/rules/noUnnecessaryCallbackWrapperRule.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/rules/noUnnecessaryCallbackWrapperRule.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/rules/noUnnecessaryClassRule.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/rules/noUnnecessaryClassRule.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/rules/noUnnecessaryInitializerRule.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/rules/noUnnecessaryInitializerRule.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/rules/noUnnecessaryQualifierRule.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/rules/noUnnecessaryQualifierRule.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/rules/noUnnecessaryTypeAssertionRule.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/rules/noUnnecessaryTypeAssertionRule.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/rules/noUnsafeAnyRule.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/rules/noUnsafeAnyRule.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/rules/noUnsafeFinallyRule.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/rules/noUnsafeFinallyRule.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/rules/noUnusedExpressionRule.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/rules/noUnusedExpressionRule.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/rules/noUnusedVariableRule.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/rules/noUnusedVariableRule.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/rules/noUseBeforeDeclareRule.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/rules/noUseBeforeDeclareRule.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/rules/noVarKeywordRule.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/rules/noVarKeywordRule.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/rules/noVarRequiresRule.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/rules/noVarRequiresRule.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/rules/noVoidExpressionRule.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/rules/noVoidExpressionRule.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/rules/numberLiteralFormatRule.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/rules/numberLiteralFormatRule.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/rules/objectLiteralKeyQuotesRule.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/rules/objectLiteralKeyQuotesRule.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/rules/objectLiteralShorthandRule.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/rules/objectLiteralShorthandRule.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/rules/objectLiteralSortKeysRule.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/rules/objectLiteralSortKeysRule.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/rules/oneLineRule.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/rules/oneLineRule.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/rules/oneVariablePerDeclarationRule.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/rules/oneVariablePerDeclarationRule.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/rules/onlyArrowFunctionsRule.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/rules/onlyArrowFunctionsRule.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/rules/orderedImportsRule.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/rules/orderedImportsRule.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/rules/preferConditionalExpressionRule.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/rules/preferConditionalExpressionRule.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/rules/preferConstRule.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/rules/preferConstRule.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/rules/preferForOfRule.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/rules/preferForOfRule.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/rules/preferFunctionOverMethodRule.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/rules/preferFunctionOverMethodRule.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/rules/preferMethodSignatureRule.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/rules/preferMethodSignatureRule.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/rules/preferObjectSpreadRule.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/rules/preferObjectSpreadRule.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/rules/preferReadonlyRule.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/rules/preferReadonlyRule.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/rules/preferSwitchRule.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/rules/preferSwitchRule.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/rules/preferTemplateRule.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/rules/preferTemplateRule.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/rules/preferWhileRule.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/rules/preferWhileRule.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/rules/promiseFunctionAsyncRule.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/rules/promiseFunctionAsyncRule.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/rules/quotemarkRule.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/rules/quotemarkRule.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/rules/radixRule.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/rules/radixRule.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/rules/restrictPlusOperandsRule.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/rules/restrictPlusOperandsRule.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/rules/returnUndefinedRule.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/rules/returnUndefinedRule.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/rules/semicolonRule.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/rules/semicolonRule.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/rules/spaceBeforeFunctionParenRule.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/rules/spaceBeforeFunctionParenRule.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/rules/spaceWithinParensRule.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/rules/spaceWithinParensRule.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/rules/staticThisRule.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/rules/staticThisRule.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/rules/strictBooleanExpressionsRule.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/rules/strictBooleanExpressionsRule.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/rules/strictComparisonsRule.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/rules/strictComparisonsRule.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/rules/strictStringExpressionsRule.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/rules/strictStringExpressionsRule.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/rules/strictTypePredicatesRule.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/rules/strictTypePredicatesRule.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/rules/switchDefaultRule.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/rules/switchDefaultRule.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/rules/switchFinalBreakRule.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/rules/switchFinalBreakRule.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/rules/trailingCommaRule.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/rules/trailingCommaRule.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/rules/tripleEqualsRule.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/rules/tripleEqualsRule.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/rules/typeLiteralDelimiterRule.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/rules/typeLiteralDelimiterRule.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/rules/typedefRule.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/rules/typedefRule.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/rules/typedefWhitespaceRule.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/rules/typedefWhitespaceRule.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/rules/typeofCompareRule.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/rules/typeofCompareRule.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/rules/unifiedSignaturesRule.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/rules/unifiedSignaturesRule.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/rules/unnecessaryBindRule.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/rules/unnecessaryBindRule.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/rules/unnecessaryConstructorRule.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/rules/unnecessaryConstructorRule.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/rules/unnecessaryElseRule.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/rules/unnecessaryElseRule.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/rules/useDefaultTypeParameterRule.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/rules/useDefaultTypeParameterRule.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/rules/useIsnanRule.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/rules/useIsnanRule.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/rules/variableNameRule.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/rules/variableNameRule.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/rules/whitespaceRule.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/rules/whitespaceRule.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/runner.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/runner.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/test.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/tslintCli.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/tslintCli.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/utils.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/utils.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/verify/lines.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/verify/lines.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/verify/lintError.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/verify/lintError.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/verify/parse.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/lib/verify/parse.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint/tslint-vscode.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tsutils/CHANGELOG.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/tsutils/CHANGELOG.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tsutils/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/tsutils/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tsutils/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/tsutils/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tsutils/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/tsutils/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tsutils/typeguard/2.8/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/tsutils/typeguard/2.8/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tsutils/typeguard/2.8/node.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/tsutils/typeguard/2.8/node.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tsutils/typeguard/2.8/node.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/tsutils/typeguard/2.8/node.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tsutils/typeguard/2.8/type.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/tsutils/typeguard/2.8/type.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tsutils/typeguard/2.9/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/tsutils/typeguard/2.9/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tsutils/typeguard/2.9/node.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/tsutils/typeguard/2.9/node.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tsutils/typeguard/2.9/type.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/tsutils/typeguard/2.9/type.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tsutils/typeguard/3.0/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/tsutils/typeguard/3.0/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tsutils/typeguard/3.0/node.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/tsutils/typeguard/3.0/node.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tsutils/typeguard/3.0/type.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/tsutils/typeguard/3.0/type.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tsutils/typeguard/3.0/type.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/tsutils/typeguard/3.0/type.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tsutils/typeguard/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/tsutils/typeguard/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tsutils/typeguard/next/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/tsutils/typeguard/next/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tsutils/typeguard/next/node.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/tsutils/typeguard/next/node.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tsutils/typeguard/next/node.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/tsutils/typeguard/next/node.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tsutils/typeguard/next/type.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/tsutils/typeguard/next/type.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tsutils/typeguard/next/type.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/tsutils/typeguard/next/type.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tsutils/typeguard/node.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/tsutils/typeguard/node.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tsutils/typeguard/node.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/tsutils/typeguard/node.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tsutils/typeguard/type.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/tsutils/typeguard/type.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tsutils/typeguard/type.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/tsutils/typeguard/type.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tsutils/util/control-flow.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/tsutils/util/control-flow.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tsutils/util/control-flow.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/tsutils/util/control-flow.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tsutils/util/convert-ast.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/tsutils/util/convert-ast.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tsutils/util/convert-ast.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/tsutils/util/convert-ast.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tsutils/util/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/tsutils/util/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tsutils/util/type.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/tsutils/util/type.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tsutils/util/type.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/tsutils/util/type.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tsutils/util/usage.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/tsutils/util/usage.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tsutils/util/usage.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/tsutils/util/usage.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tsutils/util/util.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/tsutils/util/util.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tsutils/util/util.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/tsutils/util/util.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tsutils/yarn.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/app.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tslint.json" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -11,8 +677,12 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="TypeScript File" />
+        <option value="JavaScript File" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1iJ3hTWzUxGoUZ2YTTF7bJe9Wwz" />
   <component name="ProjectViewState">
@@ -22,8 +692,19 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.standard" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.standard" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.standard" value="" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="ts.external.directory.path" value="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external" />
+    <property name="prettierjs.PrettierConfiguration.Package" value="$PROJECT_DIR$/node_modules/prettier" />
+    <property name="settings.editor.selected.configurable" value="settings.javascript.linters.eslint" />
+    <property name="ts.external.directory.path" value="$PROJECT_DIR$/node_modules/typescript/lib" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -35,6 +716,9 @@
       <option name="presentableId" value="Default" />
       <updated>1601611987793</updated>
       <workItem from="1601611989302" duration="3208000" />
+      <workItem from="1601829403329" duration="2885000" />
+      <workItem from="1601916684845" duration="700000" />
+      <workItem from="1601917389046" duration="180000" />
     </task>
     <servers />
   </component>
@@ -42,6 +726,14 @@
     <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="580" y="328" key="#ESLint" timestamp="1601917438084">
+      <screen x="0" y="23" width="1440" height="814" />
+    </state>
+    <state x="580" y="328" key="#ESLint/0.23.1440.814@0.23.1440.814" timestamp="1601917438084" />
+    <state x="220" y="69" key="SettingsEditor" timestamp="1601916882408">
+      <screen x="0" y="23" width="1440" height="814" />
+    </state>
+    <state x="220" y="69" key="SettingsEditor/0.23.1440.814@0.23.1440.814" timestamp="1601916882408" />
     <state width="600" height="428" key="javadoc.popup" timestamp="1601618410269">
       <screen x="0" y="23" width="1440" height="816" />
     </state>
